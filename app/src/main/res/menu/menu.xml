@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/movieplay"
+        android:title="NowPlaying"
+        android:icon="@drawable/nowplaying"/>
+
+    <item
+        android:id="@+id/toprated"
+        android:title="TopRated"
+        android:icon="@drawable/ic_baseline_star_outline_24"/>
+
+</menu>
